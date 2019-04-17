@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 c = a
 =======
 int a = b;
@@ -7,3 +8,6 @@ int a = b;
 =======
 int b = c
 >>>>>>> B
+=======
+jfiejifjeif
+>>>>>>> D tests
