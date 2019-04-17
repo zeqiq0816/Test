@@ -10,4 +10,9 @@ int b = c
 >>>>>>> B
 =======
 jfiejifjeif
+<<<<<<< HEAD
 >>>>>>> D tests
+=======
+fef
+
+>>>>>>> grgr
